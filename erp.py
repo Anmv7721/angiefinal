@@ -18,7 +18,7 @@ st.image(logo_path, width=200)  # Puedes ajustar el tamaño cambiando el valor d
 st.title("Sistema ERP")
 st.write("Bienvenido al sistema ERP para la gestión de clientes, inventarios, facturación, reportes y análisis de ventas.")
 
-st.sidebar.title("ERP_ITM")
+st.sidebar.title("ERP_MMC_CONSTRUCCIONES")
 
 # Variables de autenticación
 USER = "Anmv"
